@@ -1,5 +1,5 @@
 # thesisQuenches
-Superluminal and hyperbolic quenches in the transverse field Ising and XXX Heisenberg model for my thesis
+Superluminal and hyperbolic quenches in the transverse field Ising and XXX Heisenberg model for my thesis (https://escholarship.mcgill.ca/concern/theses/br86b846h) 
 
 In both the TFI and Heisenberg folder:
 
