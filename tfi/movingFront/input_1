@@ -1,0 +1,9 @@
+input
+	{
+	N = 32
+	v = 1
+	h = 4
+	tau = 0.2
+	truncE = 1e-10
+	maxDim = 128
+	}
